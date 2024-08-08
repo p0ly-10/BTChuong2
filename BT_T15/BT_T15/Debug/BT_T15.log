@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BT_T15.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BT.cpp
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BTTrang_15\BT_T15\BT_T15\BT.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BTTrang_15\BT_T15\BT_T15\BT.cpp(55,12): warning C4476: 'printf' : unknown type field character 'r' in format specifier
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BTTrang_15\BT_T15\BT_T15\BT.cpp(55,62): warning C4474: 'printf' : too many arguments passed for format string
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BTTrang_15\BT_T15\BT_T15\BT.cpp(55,62): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  BT_T15.vcxproj -> D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BTTrang_15\BT_T15\Debug\BT_T15_T16.exe
