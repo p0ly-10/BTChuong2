@@ -1,0 +1,4 @@
+﻿  SapXepTangDan.cpp
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BT_Trang27\BT_Trang27\SapXepTangDan.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BT_Trang27\BT_Trang27\SapXepTangDan.cpp(8,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  BT_Trang27.vcxproj -> D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BT_Trang27\Debug\BT_Trang27.exe
